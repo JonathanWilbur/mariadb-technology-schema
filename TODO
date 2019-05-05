@@ -1,0 +1,31 @@
+- CVSSv3
+- CVSSv2
+- CVE
+- CWE
+- Application
+- U.S. Subnets
+- Common Firewall Ports
+- CPE
+- Windows Errors
+- File Types
+- Malware Identifiers
+- X.509v3 Extensions
+- OrganizationallyUniqueIdentifier
+- DNS Records
+- Protocols
+- Operating Systems
+- HTTP Error Codes
+- User Agent Strings
+- RFC
+- ITU Publication
+- Object Identifiers?
+- MySQL Errors
+- Cryptographic Ciphers
+- Hash Algorithms
+- Block Cipher Modes
+- OpenSSL / TLS Cipher Suites
+
+- Make Table names consistent
+- Remove [] from RFCs and links in DNS tables
+- Convert RFC fields into numbers
+- Ignore duplicates
